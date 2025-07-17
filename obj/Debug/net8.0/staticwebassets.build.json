@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rz79hYWDi+6rz1jzs4eDyYBDF296sF3DgDgV0OtI11g=",
+  "Source": "HRIntegrationService",
+  "BasePath": "_content/HRIntegrationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
