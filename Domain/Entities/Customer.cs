@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace HRIntegrationService.Models
+namespace HRIntegrationService.Entity
 {
-    public class User
+    public class Customer
     {
         [Key]
         public int Id { get; set; }

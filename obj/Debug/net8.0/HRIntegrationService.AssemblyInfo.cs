@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRIntegrationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf41b60696cfdd12fe73d4d3e9602ab7f026fa9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRIntegrationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRIntegrationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

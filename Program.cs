@@ -1,4 +1,4 @@
-using HRIntegrationService.Models;
+using HRIntegrationService.Entity;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 

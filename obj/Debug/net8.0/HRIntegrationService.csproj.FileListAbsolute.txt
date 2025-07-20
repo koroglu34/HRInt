@@ -170,3 +170,4 @@
 /Users/ibrahimkoroglu/Documents/HRIntegration/HRIntegrationService/obj/Debug/net8.0/HRIntegrationService.pdb
 /Users/ibrahimkoroglu/Documents/HRIntegration/HRIntegrationService/obj/Debug/net8.0/HRIntegrationService.genruntimeconfig.cache
 /Users/ibrahimkoroglu/Documents/HRIntegration/HRIntegrationService/obj/Debug/net8.0/ref/HRIntegrationService.dll
+/Users/ibrahimkoroglu/Documents/HRIntegration/HRIntegrationService/obj/Debug/net8.0/HRIntegrationService.sourcelink.json
